@@ -76,8 +76,3 @@ app.listen(process.env.PORT || 3000, function(){
 
 
 
-//apiKey
-//e047a6644ec6b5d6a0f1bd25a210d36c-us9
-
-//audience
-//0a4137cb65
